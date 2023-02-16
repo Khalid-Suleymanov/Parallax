@@ -1,0 +1,84 @@
+.first-section {
+    background-image: url("https://www.w3schools.com/howto/img_parallax.jpg");
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+}
+
+.second-section {
+    background-image: url("https://www.w3schools.com/howto/img_parallax2.jpg");
+    height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.third-section {
+    background-color: black;
+    color: white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.inphoto h1 {
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    margin-top: 550px;
+    color: black;
+}
+
+.inphoto2 h1 {
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+}
+
+.fourth-section {
+    background-image: url("https://www.w3schools.com/howto/img_parallax3.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+}
+
+.inphoto4 h1 {
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+    color: white;
+}
+
+.fifth-section {
+    background-color: black;
+    color: white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.sixth-section {
+    background-image: url("https://www.w3schools.com/howto/img_parallax.jpg");
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+}
+
+.inphoto6 h1 {
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    margin-top: 550px;
+    color: black;
+}
