@@ -24,6 +24,7 @@
     height: 150px;
     display: flex;
     justify-content: center;
+    padding: 50px 80px;
 }
 
 .inphoto h1 {
@@ -32,12 +33,14 @@
     align-items: center;
     margin-top: 550px;
     color: black;
+    font-size: 50px;
 }
 
 .inphoto2 h1 {
     display: flex;
     align-items: center;
     margin-top: 300px;
+    font-size: 40px;
 }
 
 .fourth-section {
@@ -48,6 +51,7 @@
     background-attachment: fixed;
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
 
 .inphoto4 h1 {
@@ -73,6 +77,7 @@
     background-attachment: fixed;
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
 
 .inphoto6 h1 {
@@ -81,4 +86,7 @@
     align-items: center;
     margin-top: 550px;
     color: black;
+}
+.hide{
+    padding: 50px 80px;
 }
